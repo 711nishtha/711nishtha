@@ -1,4 +1,5 @@
 <h1>Hey, I'm Nishtha</h1>
+
 <h3>Computer Science student building backend and data-oriented projects.</h3>
 
 <p>
@@ -8,14 +9,32 @@ Pinned repositories reflect current work.
 
 <hr>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</p>
+
 ### Elsewhere
 
 <p>
   <a href="https://www.linkedin.com/in/nishtha711/">
-    <img height="50" src="https://img.shields.io/badge/LinkedIn-%20?style=flat&color=EAF2FF&logo=linkedin&logoColor=6C8CFF&labelColor=EAF2FF" alt="LinkedIn" />
+    <img
+      height="50"
+      src="https://img.shields.io/badge/LinkedIn-%20?style=flat&color=EAF2FF&logo=linkedin&logoColor=6C8CFF&labelColor=EAF2FF"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://github.com/nishtha711">
-    <img height="50" src="https://img.shields.io/badge/GitHub-%20?style=flat&color=F7F7F7&logo=github&logoColor=8B8B8B&labelColor=F7F7F7" alt="GitHub" />
+    <img
+      height="50"
+      src="https://img.shields.io/badge/GitHub-%20?style=flat&color=F7F7F7&logo=github&logoColor=8B8B8B&labelColor=F7F7F7"
+      alt="GitHub"
+    />
   </a>
 </p>
